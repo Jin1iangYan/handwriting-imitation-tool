@@ -1,0 +1,2 @@
+input some text
+english only
